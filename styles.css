@@ -18,7 +18,8 @@ label {
     margin-bottom: 0.5rem;
 }
 
-input {
+input, 
+textarea {
     width: 100%;
     display: block;
     margin-bottom: 1rem;
@@ -30,7 +31,8 @@ input {
     color: rgb(188, 92, 92);
 }
 
-input:focus {
+input:focus,
+textarea:focus {
     background-color: rgb(229, 188, 188);
     color: rgb(232, 55, 55);
     border-color: rgb(232, 55, 55);
