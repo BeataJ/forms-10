@@ -36,6 +36,15 @@ input:focus {
     border-color: rgb(232, 55, 55);
 }
 
+.form-control-inline {
+    display: flex;
+}
+
+.form-control-inline input {
+    width: auto;
+    margin-right: 0.5rem;
+}
+
 button {
     display: block;
     font: inherit;
