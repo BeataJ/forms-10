@@ -30,7 +30,7 @@ label {
 }
 
 textarea {
-    resize: none;
+    resize: vertical;
 }
 
 input, 
